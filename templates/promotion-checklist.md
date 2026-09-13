@@ -1,5 +1,10 @@
 # Чек-лист для повышения грейда
 
+**Автор методики:** Айдар Сафин, aidar@aidarsafin.ru
+**Репозиторий:** [github.com/aidarsafindev/1c-career-compass](https://github.com/aidarsafindev/1c-career-compass)
+
+---
+
 ## Перед разговором с руководителем
 
 ### Подготовка данных
@@ -81,3 +86,11 @@
 - [ ] Предлагают повышение без повышения зарплаты
 
 **Это повод задуматься о смене работы.**
+
+---
+
+**Айдар Сафин**
+Главный разработчик Центра экспертизы 1С, Магнит
+aidar@aidarsafin.ru
+
+*Материал из репозитория [1c-career-compass](https://github.com/aidarsafindev/1c-career-compass).*
