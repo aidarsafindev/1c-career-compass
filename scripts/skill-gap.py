@@ -3,6 +3,11 @@
 
 Сравнивает самооценку разработчика с целевыми значениями для грейда.
 Показывает топ-5 навыков с наибольшим разрывом.
+
+Автор: Айдар Сафин
+Контакты: aidar@aidarsafin.ru
+Репозиторий: https://github.com/aidarsafindev/1c-career-compass
+Лицензия: MIT
 """
 
 import sys
@@ -65,6 +70,11 @@ def main():
     matrix = load_matrix()
     targets = get_target_levels(matrix, grade)
 
+    print("=" * 60)
+    print("АНАЛИЗАТОР РАЗРЫВОВ В НАВЫКАХ")
+    print("Автор: Айдар Сафин, aidar@aidarsafin.ru")
+    print("=" * 60)
+    print()
     print(f"Целевой грейд: {grade}")
     print("Ожидаемый уровень навыков:")
     for skill, target in targets.items():
@@ -89,6 +99,11 @@ def main():
     print("Топ-5 навыков для развития:")
     for i, gap in enumerate(gaps[:5], 1):
         print(f"  {i}. {gap['skill']}: {gap['current']}/5 -> цель {gap['target']}/5 (разрыв: {gap['gap']})")
+
+    print()
+    print("=" * 60)
+    print("Материал из репозитория 1c-career-compass")
+    print("=" * 60)
 
 
 if __name__ == "__main__":
