@@ -2,6 +2,11 @@
 Визуализация карьерного пути 1С-разработчика.
 
 Выводит ASCII-график изменения пропорций навыков по грейдам.
+
+Автор: Айдар Сафин
+Контакты: aidar@aidarsafin.ru
+Репозиторий: https://github.com/aidarsafindev/1c-career-compass
+Лицензия: MIT
 """
 
 
@@ -40,6 +45,11 @@ def visualize_career_path():
     for title, description in transitions:
         print(f"  {title}: {description}")
         print()
+
+    print("=" * 60)
+    print("Материал из репозитория 1c-career-compass")
+    print("Автор: Айдар Сафин, aidar@aidarsafin.ru")
+    print("=" * 60)
 
 
 if __name__ == "__main__":
