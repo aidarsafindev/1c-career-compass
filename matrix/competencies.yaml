@@ -1,5 +1,10 @@
 # Модель компетенций 1С-разработчика
 # Три группы навыков с детализацией по уровням
+#
+# Автор: Айдар Сафин
+# Контакты: aidar@aidarsafin.ru
+# Репозиторий: https://github.com/aidarsafindev/1c-career-compass
+# Лицензия: MIT (см. LICENSE)
 
 competency_groups:
   hard_skills:
