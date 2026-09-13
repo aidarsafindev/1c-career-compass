@@ -1,5 +1,10 @@
 # Самооценка: Карьерный компас 1С-разработчика
 
+**Автор методики:** Айдар Сафин, aidar@aidarsafin.ru
+**Репозиторий:** [github.com/aidarsafindev/1c-career-compass](https://github.com/aidarsafindev/1c-career-compass)
+
+---
+
 ## Инструкция
 
 Оцените себя по шкале 1-5 для каждого навыка:
@@ -115,3 +120,11 @@
 1. ___
 2. ___
 3. ___
+
+---
+
+**Айдар Сафин**
+Главный разработчик Центра экспертизы 1С, Магнит
+aidar@aidarsafin.ru
+
+*Материал из репозитория [1c-career-compass](https://github.com/aidarsafindev/1c-career-compass).*
