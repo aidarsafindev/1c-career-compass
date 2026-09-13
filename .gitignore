@@ -23,6 +23,9 @@ Thumbs.db
 output/*
 !output/.gitkeep
 
-# Personal data
+# Personal files — не коммитить
 my-assessment.md
 my-idp.md
+my-career-plan.md
+drafts/
+private/
