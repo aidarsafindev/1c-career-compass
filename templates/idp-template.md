@@ -1,5 +1,10 @@
 # Individual Development Plan (IDP)
 
+**Автор методики:** Айдар Сафин, aidar@aidarsafin.ru
+**Репозиторий:** [github.com/aidarsafindev/1c-career-compass](https://github.com/aidarsafindev/1c-career-compass)
+
+---
+
 ## Разработчик: [Имя]
 ## Текущий грейд: [Junior / Middle / Senior]
 ## Целевой грейд: [Middle / Senior / Lead]
@@ -85,3 +90,11 @@
 | [дата +2 мес] | Цель 1: уровень 3 |
 | [дата +4 мес] | Цель 2: уровень 4 |
 | [дата +6 мес] | Review: готовность к повышению |
+
+---
+
+**Айдар Сафин**
+Главный разработчик Центра экспертизы 1С, Магнит
+aidar@aidarsafin.ru
+
+*Материал из репозитория [1c-career-compass](https://github.com/aidarsafindev/1c-career-compass).*
