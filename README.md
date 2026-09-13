@@ -1,7 +1,7 @@
 # 1c-career-compass
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Author: Aydar Safin](https://img.shields.io/badge/Author-Aydar%20Safin-blue)
+![Author: Aidar Safin](https://img.shields.io/badge/Author-Aidar%20Safin-blue)
 ![Course](https://img.shields.io/badge/Mini--Course-6%20modules-green)
 
 > Карьерный компас для 1С-разработчика. Junior → Middle → Senior → Lead → Architect → CTO.
