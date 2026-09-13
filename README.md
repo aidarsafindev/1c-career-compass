@@ -16,7 +16,8 @@
 
 ## Что внутри
 
-- **Матрица компетенций** — три группы навыков (Hard, Soft, Business) с детализацией по шести грейдам
+- **Матрица компетенций в YAML** — для скриптов и автоматизации: [matrix/competencies.yaml](matrix/competencies.yaml)
+- **Матрица компетенций в таблицах** — для чтения на GitHub: [matrix/competencies-table.md](matrix/competencies-table.md)
 - **Чек-лист самооценки** — оценка себя по шкале 1-5 для каждого навыка
 - **Шаблон IDP** — Individual Development Plan на 6 месяцев
 - **Чек-лист повышения** — что проверить перед разговором о повышении
@@ -119,7 +120,8 @@ cat templates/idp-template.md
 ├── AUTHORS.md                          # Автор + как стать соавтором
 ├── LICENSE                             # MIT + авторское право на текст курса
 ├── matrix/
-│   └── competencies.yaml               # Полная матрица компетенций
+│   ├── competencies.yaml               # Полная матрица компетенций (для скриптов)
+│   └── competencies-table.md           # Матрица компетенций в таблицах (для чтения)
 ├── templates/
 │   ├── self-assessment.md              # Чек-лист самооценки
 │   ├── idp-template.md                 # Шаблон IDP
