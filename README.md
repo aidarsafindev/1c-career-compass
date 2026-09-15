@@ -1,5 +1,7 @@
 # 1c-career-compass
 
+Репозиторий для статьи на Инфостарт: https://infostart.ru/pm/2789652/
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Author: Aidar Safin](https://img.shields.io/badge/Author-Aidar%20Safin-blue)
 ![Course](https://img.shields.io/badge/Mini--Course-6%20modules-green)
